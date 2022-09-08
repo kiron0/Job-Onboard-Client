@@ -22,7 +22,6 @@ import JobDescription from "./pages/Jobs/JobDescription/JobDescription";
 import AppliedJobs from "./pages/ManageDashboard/AppliedJobs/AppliedJobs";
 import Candidates from "./pages/ManageDashboard/Candidates/Candidates";
 import SingleCandidates from "./pages/ManageDashboard/Candidates/SingleCandidates";
-
 import CompanyDetails from "./pages/ManageDashboard/CompanyDetails/CompanyDetails";
 import Dashboard from "./pages/ManageDashboard/Dashboard/Dashboard";
 import EmployeeDetails from "./pages/ManageDashboard/EmployeeRoot/EmployeeDetails";
