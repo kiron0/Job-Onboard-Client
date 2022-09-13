@@ -32,7 +32,7 @@ const CandidateDashboard = () => {
     dispatch(fetchAllTasks());
   }, [dispatch]);
 
-  console.log(appliedJobs);
+  // console.log(appliedJobs);
   const revRecentTask = [].concat(allTasks).reverse().slice(0, 3);
 
   if (isLoading) {
